@@ -2,4 +2,4 @@
 
 Basically Osaka Ransomware
 
-[image](assets/osaka.jpg)
+![image](assets/osaka.jpg)
